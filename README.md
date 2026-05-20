@@ -79,16 +79,6 @@ pip install -r requirements.txt
 python run.py --file exemplos/Chamados-do-Mes.xlsx --version 431.1 --next-version 432.1
 ```
 
-### Testar com arquivo de exemplo
-
-```bash
-# Gera o arquivo de exemplo
-python exemplos/gerar_exemplo.py
-
-# Roda a automação
-python run.py --file exemplos/Chamados-do-Mes.xlsx --version 431.1 --next-version 432.1
-```
-
 ### Parâmetros
 
 | Parâmetro | Obrigatório | Descrição |
