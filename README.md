@@ -113,8 +113,7 @@ jira-faq-automation/
 │   ├── sheet_generator.py      ← Gera a nova planilha .xlsx
 │   └── utils.py                ← Helpers e constantes
 ├── exemplos/
-│   ├── gerar_exemplo.py        ← Cria planilha de teste
-│   └── release_431.1.xlsx      ← (gerado pelo script acima)
+│   └── release_431.1.xlsx      ← Planilha com os chamados
 └── output/                     ← Arquivos gerados aqui
     ├── faq_432.1.md
     └── release_432.1.xlsx
